@@ -1,0 +1,18 @@
+{
+    "name": "gg3/test-plugin",
+    "authors": [
+        {
+            "name": "Nathan Gearing",
+            "email": "natgearing@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ngearing/wp-modules"
+        }
+    ],
+    "require": {
+        "ngearing/wp": "dev-master"
+    }
+}
